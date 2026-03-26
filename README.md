@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/yasiralibhutto](https://www.kaggle.com/yasiralibhutto)
 
-- 📫 How to reach me **yasirbhutto03333@gmail.com**
+- 📫 How to reach me **Muhammadyasirali.ai@gmail.com**
 
 - ⚡ Fun fact **I am funny 😅**
 
