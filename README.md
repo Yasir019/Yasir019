@@ -1,19 +1,40 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Muhammad Yasir Ali</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
-</p>
+<h1 style="color:#4A90D9;">Muhammad Yasir Ali</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yasir019&label=Profile%20views&color=00d9ff&style=flat" alt="Yasir019" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;I'm+An+AI+Engineer;I'm+a+Data+Science+Student;I'm+Passionate+about+Programming+and+Development" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yasir019&theme=github-compact&hide_border=true&area=true&color=4A90D9&line=4A90D9&point=4A90D9&bg_color=ffffff" width="92%" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Yasir019&label=Profile%20views&color=4A90D9&style=flat" />
+
+</div>
 
 ---
 
-## 🌐 Socials:
+## 💫 About Me:
+
+I specialize in building AI-powered applications that solve real-world problems and automate business workflows. My expertise includes web development, generative AI applications, AI automation systems, and seamless AI integration into modern software.I focus on developing scalable, high-performance, AI-native solutions that improve user experience, streamline processes, and deliver real business value.
+
+👯 Collaboration
+Open to working on AI products, SaaS platforms, and full-stack applications where AI plays a core role.
+
+🌱 Continuous Growth
+Continuously exploring LLMs, AI agents, and advanced automation systems to build smarter and more efficient solutions.
+
+💬 Let’s Connect
+Feel free to reach out for AI projects, automation systems, or full-stack development collaborations.
+
+---
+
+## Socials:
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
@@ -28,19 +49,22 @@
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack:
 
-**🐍 Languages & Core**
+**Languages & Core**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
-**🤖 AI Engineer**
+**AI Engineer**
 
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=flat&logo=langchain&logoColor=green)
@@ -48,8 +72,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-
-**📊 Data Science & Analysis**
+**Data Science & Analysis**
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
@@ -59,7 +82,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat&logo=Kaggle&logoColor=white)
 
-**🌐 Web & API Frameworks**
+**Web & API Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
@@ -68,13 +91,13 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
 
-**🔊 Voice AI & Automation**
+**Voice AI & Automation**
 
 ![Vapi](https://img.shields.io/badge/Vapi-%235B5EA6.svg?style=flat&logo=voip&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=flat&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=flat&logo=zapier&logoColor=white)
 
-**☁️ Cloud & Deployment**
+**Cloud & Deployment**
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
@@ -83,7 +106,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
-**🗄️ Databases**
+**Databases**
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
@@ -93,7 +116,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
 
-**🎯 Vibe Coding**
+**Vibe Coding**
 
 ![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat&logo=cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-%236A0DAD.svg?style=flat&logo=rocket&logoColor=white)
@@ -102,7 +125,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat&logo=github&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-%23412991.svg?style=flat&logo=openai&logoColor=white)
 
-**🛠️ Tools & DevOps**
+**Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
@@ -110,7 +133,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasir019&theme=tokyonight&hide_border=false" width="60%" />
@@ -123,7 +146,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yasir019&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
@@ -131,7 +154,7 @@
 
 ---
 
-## 💬 Random Dev Quote
+## Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -140,5 +163,5 @@
 ---
 
 <p align="center">
-  <b>✨ "The best way to predict the future is to build it with AI." ✨</b>
+  <b>"The best way to predict the future is to build it with AI." </b>
 </p>
