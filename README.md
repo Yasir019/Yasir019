@@ -64,7 +64,7 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
 
 --
 
-**AI Engineer**
+**Generative & Agentic AI Frameworks**
 
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=flat&logo=langchain&logoColor=green)
