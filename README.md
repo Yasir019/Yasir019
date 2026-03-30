@@ -1,30 +1,144 @@
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Muhammad Yasir Ali</h1>
-<h3 align="center">Pursuing Data Science at KFUEIT Rahim Yar Khan</h3>
 
-<img align = "right" alt="Analysis" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasir019&label=Profile%20views&color=0e75b6&style=flat" alt="yasir019" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning ,Deep Learning and Big Data**
-
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/yasiralibhutto](https://www.kaggle.com/yasiralibhutto)
-
-- 📫 How to reach me **Muhammadyasirali.ai@gmail.com**
-
-- ⚡ Fun fact **I am funny 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-yasir-ali-34143b266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-yasir-ali-34143b266" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/yasiralibhutto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yasiralibhutto" height="30" width="40" /></a>
-<a href="https://instagram.com/data4y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="data4y" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yasir019&label=Profile%20views&color=00d9ff&style=flat" alt="Yasir019" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasir019&show_icons=true&locale=en&layout=compact" alt="yasir019" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasir019&show_icons=true&locale=en" alt="yasir019" /></p>
+## 🌐 Socials:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasir019&" alt="yasir019" /></p>
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+
+**🐍 Languages & Core**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+
+**🤖 AI Engineer**
+
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=flat&logo=langchain&logoColor=green)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+
+
+**📊 Data Science & Analysis**
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat&logo=Kaggle&logoColor=white)
+
+**🌐 Web & API Frameworks**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+
+**🔊 Voice AI & Automation**
+
+![Vapi](https://img.shields.io/badge/Vapi-%235B5EA6.svg?style=flat&logo=voip&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=flat&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=flat&logo=zapier&logoColor=white)
+
+**☁️ Cloud & Deployment**
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+**🗄️ Databases**
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
+
+**🎯 Vibe Coding**
+
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-%236A0DAD.svg?style=flat&logo=rocket&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-%234285F4.svg?style=flat&logo=google&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-%23000000.svg?style=flat&logo=bytedance&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat&logo=github&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-%23412991.svg?style=flat&logo=openai&logoColor=white)
+
+**🛠️ Tools & DevOps**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasir019&theme=tokyonight&hide_border=false" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yasir019&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir019&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="38%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yasir019&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <b>✨ "The best way to predict the future is to build it with AI." ✨</b>
+</p>
