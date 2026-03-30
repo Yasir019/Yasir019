@@ -137,18 +137,6 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasir019&theme=tokyonight&hide_border=false" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasir019&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir019&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="38%" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yasir019&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</p>
 
 <p align="center">
   <b>"The best way to predict the future is to build it with AI." </b>
