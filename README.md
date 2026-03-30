@@ -102,8 +102,6 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 **Databases**
@@ -151,16 +149,6 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yasir019&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </p>
-
----
-
-## Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
 
 <p align="center">
   <b>"The best way to predict the future is to build it with AI." </b>
