@@ -27,7 +27,7 @@ Open to working on AI products, SaaS platforms, and full-stack applications wher
 Continuously exploring LLMs, AI agents, and advanced automation systems to build smarter and more efficient solutions.
 
 💬 Let’s Connect
-Feel free to reach out for AI projects, automation systems, or full-stack development collaborations
+Feel free to reach out for AI projects, automation systems, or full-stack development collaborations.
 
 ---
 
