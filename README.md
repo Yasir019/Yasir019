@@ -18,7 +18,7 @@
 
 ## 💫 About Me:
 
-I specialize in building AI-powered applications that solve real-world problems and automate business workflows. My expertise includes web development, generative AI applications, AI automation systems, and seamless AI integration into modern software.I focus on developing scalable, high-performance, AI-native solutions that improve user experience, streamline processes, and deliver real business value.
+I specialize in building AI-Powered applications that solve real-world problems and automate business workflows. My expertise includes web development, generative AI applications, AI automation systems, and seamless AI integration into modern software.I focus on developing scalable, high-performance, AI-native solutions that improve user experience, streamline processes, and deliver real business value.
 
 👯 Collaboration
 Open to working on AI products, SaaS platforms, and full-stack applications where AI plays a core role.
