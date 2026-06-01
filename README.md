@@ -42,7 +42,7 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
   <a href="https://www.kaggle.com/yasiralibhutto" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:muhammadyasirali.ai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://YOUR_PORTFOLIO.com" target="_blank">
