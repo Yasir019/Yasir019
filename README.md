@@ -33,7 +33,7 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
 
 ## Socials:
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-yasir-ali-34143b266" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
