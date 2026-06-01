@@ -39,7 +39,7 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
+  <a href="https://www.kaggle.com/yasiralibhutto" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
   <a href="mailto:your-email@gmail.com">
