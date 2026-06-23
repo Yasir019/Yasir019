@@ -49,8 +49,6 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
 
 
 
-
-
 ## Tech Stack:
 
 **Languages & Core**
