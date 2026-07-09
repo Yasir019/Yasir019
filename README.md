@@ -2,7 +2,9 @@
 <p align="center">
   <a href="https://github.com/Yasir019">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=3b82f6&center=true&repeat=false&width=535&lines=Muhammad+Yasir+Ali" alt="Muhammad Yasir Ali" />
+    
   </a>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b82f6&size=28&center=true&vCenter=true&width=1000&lines=I'm+An+AI+Engineer;I'm+Passionate+about+Programming+and+Development;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 </p>
