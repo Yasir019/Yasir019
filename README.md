@@ -37,6 +37,12 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
   <a href="https://www.linkedin.com/in/muhammad-yasir-ali-34143b266" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://x.com/Yasir_023" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.threads.com/@yasirali.automation?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
   <a href="https://www.kaggle.com/yasiralibhutto" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
