@@ -49,7 +49,7 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
   <a href="mailto:muhammadyasirali.ai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+  <a href="https://my-portfolio-nine-phi-85.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
