@@ -6,7 +6,7 @@
     
   </a>
 
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b82f6&size=28&center=true&vCenter=true&width=1000&lines=I'm+An+AI+Engineer;I'm+Passionate+about+Programming+and+Development;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 </p>
