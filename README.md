@@ -1,74 +1,76 @@
 <!-- Header -->
 <p align="center">
   <a href="https://github.com/Yasir019">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=3b82f6&center=true&repeat=false&width=535&lines=Muhammad+Yasir+Ali" alt="Muhammad Yasir Ali" />
-
-    
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=3b82f6&center=true&vCenter=true&repeat=false&width=535&lines=Muhammad+Yasir+Ali" alt="Muhammad Yasir Ali" />
   </a>
-
-
-[![Typing SVG](https://readme-typing-svg...)](https://git.io/typing-svg)
-
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Yasir's 3D contribution graph" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=3b82f6&size=28&center=true&vCenter=true&width=1000&lines=I'm+An+AI+Engineer;I'm+Passionate+about+Programming+and+Development;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Yasir019">
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Yasir019&bg_color=0d1117&color=3b82f6&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&hide_border=true" alt="Yasir's github activity graph" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yasir019..." />
+  <img src="https://komarev.com/ghpvc/?username=Yasir019&label=Profile%20views&color=3b82f6&style=flat" alt="Profile views" />
 </p>
 
---
+---
 
 ## 💫 About Me:
 
-I specialize in building AI-Powered applications that solve real-world problems and automate business workflows. My expertise includes web development, generative AI applications, AI automation systems, and seamless AI integration into modern software.I focus on developing scalable, high-performance, AI-native solutions that improve user experience, streamline processes, and deliver real business value.
+I specialize in building AI-Powered applications that solve real-world problems and automate business workflows. My expertise includes web development, generative AI applications, AI automation systems, and seamless AI integration into modern software. I focus on developing scalable, high-performance, AI-native solutions that improve user experience, streamline processes, and deliver real business value.
 
-👯 Collaboration
+🤝 **Collaboration**<br>
 Open to working on AI products, SaaS platforms, and full-stack applications where AI plays a core role.
 
-🌱 Continuous Growth
+🌱 **Continuous Growth**<br>
 Continuously exploring LLMs, AI agents, and advanced automation systems to build smarter and more efficient solutions.
 
-💬 Let’s Connect
+💬 **Let's Connect**<br>
 Feel free to reach out for AI projects, automation systems, or full-stack development collaborations.
 
 ---
 
-## Socials:
+## 🌐 Socials:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-yasir-ali-34143b266" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Yasir_023" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.threads.com/@yasirali.automation?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white" />
+    <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
   <a href="https://www.kaggle.com/yasiralibhutto" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="mailto:muhammadyasirali.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://my-portfolio-nine-phi-85.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
+---
 
-
-## Tech Stack:
+## 🛠️ Tech Stack:
 
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-
---
 
 **Generative & Agentic AI Frameworks**
 
@@ -77,8 +79,6 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-
---
 
 **Data Science & Analysis**
 
@@ -90,8 +90,6 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat&logo=Kaggle&logoColor=white)
 
---
-
 **Web & API Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
@@ -101,24 +99,18 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
 
---
-
 **Voice AI & Automation**
 
 ![Vapi](https://img.shields.io/badge/Vapi-%235B5EA6.svg?style=flat&logo=voip&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=flat&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=flat&logo=zapier&logoColor=white)
 
---
-
 **Cloud & Deployment**
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=00C7B7)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
---
 
 **Databases**
 
@@ -127,8 +119,6 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
-
---
 
 **Vibe Coding**
 
@@ -139,22 +129,21 @@ Feel free to reach out for AI projects, automation systems, or full-stack develo
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat&logo=github&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-%23412991.svg?style=flat&logo=openai&logoColor=white)
 
---
-
 **Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
---
+---
 
-## GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasir019&theme=tokyonight&hide_border=false" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=Yasir019&theme=tokyonight&hide_border=false" width="60%" alt="GitHub Streak" />
 </p>
 
+---
 
 <p align="center">
   <b>✨ "The best way to predict the future is to build it with AI." ✨</b>
