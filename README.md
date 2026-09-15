@@ -7,14 +7,16 @@
   </a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b82f6&size=28&center=true&vCenter=true&width=1000&lines=I'm+An+AI+Engineer;I'm+Passionate+about+Programming+and+Development;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg...)](https://git.io/typing-svg)
 
 </p>
 
-[![Yasir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yasir019&bg_color=0d1117&color=3b82f6&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&hide_border=true)](https://github.com/Yasir019/)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Yasir's 3D contribution graph" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yasir019&label=Profile%20views&color=3b82f6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Yasir019..." />
 </p>
 
 --
