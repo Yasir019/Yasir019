@@ -35,7 +35,7 @@ Continuously exploring LLMs, AI agents, and advanced automation systems to build
 💬 **Let's Connect**<br>
 Feel free to reach out for AI projects, automation systems, or full-stack development collaborations.
 
----
+--
 
 ## 🌐 Socials:
 
