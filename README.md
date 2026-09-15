@@ -11,7 +11,7 @@
 
 </p>
 
-[![Yasir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yasir019&bg_color=0d111700&color=3b82f6&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&hide_border=true)](https://github.com/Yasir019/)
+[![Yasir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yasir019&bg_color=0d1117&color=3b82f6&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6&hide_border=true)](https://github.com/Yasir019/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yasir019&label=Profile%20views&color=3b82f6&style=flat" />
